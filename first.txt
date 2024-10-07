@@ -1,5 +1,5 @@
-first in different languages:
-one
-okkati
-ek
-ekke
+one series:
+1
+11
+111
+1111
